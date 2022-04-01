@@ -14,12 +14,14 @@
   - C# Desktop Developer
   - Creating UI with Flutter
   - Back-end with Laravel
+  - Azure Cloud Architect
 
 - 🧘 My Hobbies:
   - I like camping, long travels and offroad competitions;
   - Fascinated by beans (especially when grandma cooks).
   
  <div style="display: inline_block"><br>
+    <img align="center" alt="Kcumbe-azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
    <img align="center" alt="Kcumbe-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
    <img align="center" alt="Kcumbe-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
    <img align="center" alt="Kcumbe-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
