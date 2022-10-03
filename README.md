@@ -20,6 +20,10 @@
   - I like camping, long travels and offroad competitions;
   - Fascinated by beans (especially when grandma cooks).
   
+### | Belonging analysis
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakatsinho&theme=github)
+<!--- <img height="180em" src="https://github-profile-trophy.vercel.app/?username=nakatsinho&theme=trophy"> --->
+  
 ### | Programming Languages, Tools & Frameworks
  <div style="display: inline_block"><br>
     <img align="center" alt="Kcumbe-azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
